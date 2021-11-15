@@ -1,0 +1,71 @@
+tag,reponse
+greeting,how do you do
+greeting,hello
+greeting,pleasure to meet you
+greeting,you too
+greeting,awesome
+bye,farewell
+bye,bye
+bye,see you around
+bye,adiu
+bye,I'm glad I can help
+bye,see you soon
+bye,goodbye
+bye,see you
+bye,you too
+bye,cya
+thank,np
+thank,at your service
+thank,glad I can help
+thank,anytime
+thank,awesome
+thank,anytime
+thank,don't mention it
+thank,sure
+thank,welcome
+thank,no problem
+botname,I am Lee
+botname,call me Lee
+botname,it's Lee
+botname,you may address me as Lee
+botname,yours sincerely Lee
+botname,I am known as Lee
+botname,you can call me Lee
+function,depends on what is asked
+function,that is according to my ability
+function,shoot
+function,I can try my best
+function,to make life more convenient
+function,to help people
+function,depends on your question
+function,what do you wanna know
+function,"yes, ask away"
+introduction,malaysia is a country
+introduction,it is in the south east asia
+introduction,malaysia is trully asia
+interest,a lot of things
+interest,the culture
+interest,the diversity
+interest,the food
+weather+,January is a month of
+weather+,Looks like it's going to
+weather+,March is the month for
+weather+,April will most likely
+weather+,The weather in May is
+weather+,it'll be hot in June
+weather+,"July is all wet, we, wet"
+weather+,Normally August is
+weather+,Weather on September will be
+weather+,most likely it'll be
+weather+,apparently it will
+weather+,it's gonna be
+weather+,great
+weather-,why not?
+weather-,come another month then
+weather-,then when do u want to visit
+recommend,go to recomemndation SECTION
+recommend,GO TO RECOMMEND
+location+,you will surely enjoy that LOCATION+
+location+,that sounds like a nice place to go
+location-,we still have many more place to offer
+location-,why not? Tell me 
