@@ -1,0 +1,78 @@
+pattern,tag
+hello,greeting
+hey,greeting
+hi,greeting
+nice to meet you,greeting
+good day,greeting
+how are you doing,greeting
+good morning,greeting
+good evening,greeting
+good afternoon,greeting
+bye,bye
+bye-bye,bye
+gotta go,bye
+see you later,bye
+i think that’s all I have to ask,bye
+i have to leave now,bye
+farewell,bye
+catch you later,bye
+take care,bye
+buhbye,bye
+thanks,thank
+thank you,thank
+that's helpful,thank
+great help,thank
+very informative,thank
+apprecite it,thank
+my gratitude ,thank
+thank,thank
+tq,thank
+you have my thank,thank
+give me your name,botname
+hi what is your name,botname
+may i know your name,botname
+what is your name ,botname
+your name is,botname
+how do i call you,botname
+have a name?,botname
+what's your name,botname
+how do i address you,botname
+what do i call you as,botname
+what can you do,function
+how can you help me,function
+i would like to ask a question,function
+can you really help me,function
+what purpose do you serve,function
+what is your function,function
+what question can you answer,function
+what inquiry can you answer,function
+i have an inquiry,function
+what is malaysia,introduction
+where is malaysia,introduction
+tell me about malaysia,introduction
+what can i do in malaysia,interest
+what are the point of interest in malaysia,interest
+what is malaysia known for,interest
+what is malaysia famous for,interest
+why should i visit malaysia,interest
+what do most people visit malaysia for,interest
+what is the weather like on january,weather+
+i am visiting malaysia on december,weather+
+will be visiting malaysia on december,weather+
+will visit on december,weather+
+would like to visit on december,weather+
+i will not be visiting malaysia on december,weather-
+would not be visiting malaysia on december,weather-
+will not visit on december,weather-
+would not like to visit on december,weather-
+recommend me a place to go,recommend
+where should i visit if I want to visit malaysia,recommend
+any recommendation?,recommend
+where to explore,recommend
+any suggestion on where should I go,recommend
+i want to go to ,location+
+I would like to go to ,location+
+i am interested on ,location+
+i do not want to go to,location-
+i am not interested in,location-
+i would not like to go to,location-
